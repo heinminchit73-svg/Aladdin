@@ -12,3 +12,4 @@ ALD-9527RP7CH682 | minsoe | 20 Days
 ALD-IBYQE7YT5A8Y | khum | 30 Days
 ALD-UBKHP0OQCRMB | have | 30 Days
 ALD-14UB0SLUF48P | chanaung | 30 Days
+ALD-BB1BJRTO2N34 | aungaung| 30 Days
