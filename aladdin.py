@@ -15,3 +15,4 @@ ALD-14UB0SLUF48P | chanaung | 30 Days
 ALD-BB1BJRTO2N34 | aungaung| 30 Days
 ALD-XUM0GB0BRMUA | thiha | 30 Days
 ALD-AHASI0VOOHQG | thaeoo | 30 Days
+ALD-08DFINBAJ1JQ | yuyu | 30 Days
