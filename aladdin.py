@@ -41,3 +41,4 @@ ALD-OKDHWPFUXZ52 | very | 30 Days
 ALD-IMTHNCP3XWTI | ands | 30 Days
 ALD-C5XSF160SWOR | myokyaw | 1 Days
 ALD-JJ9LBQQ | name | 10
+ALD-M64FUYW | have | 10
