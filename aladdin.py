@@ -44,3 +44,4 @@ ALD-M64FUYW | have | 10
 ALD-3I4V1C8 | namm | 1
 ALD-W2HWVD6 | name | 1
 ALD-AD4R9EM | oo | 2
+ALD-074DT0Y5CJ | 123 | 1
